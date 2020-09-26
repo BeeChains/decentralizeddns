@@ -1,0 +1,2 @@
+# decentralizeddns
+DECENTRALIZED DNS!!
