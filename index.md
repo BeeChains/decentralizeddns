@@ -1,6 +1,6 @@
 # DECENTRALIZED DNS Welcomes You...
 
-You managed to find The Eternal Essence Within or what we call our [Inner I Net Company/] or A Glitch in the matrix and are [HERE NOW](http://b.herenow/) surfing cosmic waves within the [COSMATRIX FOUNDATION](binnerspace.cosmatrixfoundation/).
+You managed to find The Eternal Essence Within or what we call our [Inner I Net Company/](https://innerinetcompany.carrd.co/) or maybe just a Glitch in the matrix but you are [HERE NOW](http://b.herenow/) surfing cosmic waves within the [COSMATRIX FOUNDATION](binnerspace.cosmatrixfoundation/).
 
 Make a [Handshake](https://handshake.org/) stay home, go to [NameBase](https://namebase.io/) get a Decentralized DNS [Handshake Blockchain Top Level Domain](https://handshake.org/) like most of these found at; [WEB SECURITY SPECIALIST](http://admin.websecurityspecialist/)
 
