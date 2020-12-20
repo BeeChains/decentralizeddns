@@ -1,6 +1,7 @@
 # DECENTRALIZED DNS Welcomes You...
 
-| [IINC](dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.icontacto/) |
+| [IINC](http://dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.icontacto/) |
+
 
 [![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](http://shapereality.innerinetcompany.hns.to/)
 
@@ -10,7 +11,7 @@ Now, lets make a [Handshake](https://handshake.org/) stay home, go to [NameBase]
 
 # More by [HNS-DOMAINS/](http://home.hns-domains.hns.to/) 
 
-- [HNS Contributions hs1qmg7m2tnmk7vfu6ajk3pdnfjfgt222ahshk56x5]
+- [HNS Contributions](hs1qmg7m2tnmk7vfu6ajk3pdnfjfgt222ahshk56x5)
 - our [WEB SECURITY SPECIALIST](http://admin.websecurityspecialist/). 
 
 Use our Paxful Kiosk ⬇
