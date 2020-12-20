@@ -1,6 +1,6 @@
 # DECENTRALIZED DNS Welcomes You...
 
-| [IINC](http://dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.icontacto/) |
+| [IINC](http://dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.icontacto/) | [The Root Zone](https://therootzone.hns.to/)
 
 
 [![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](http://shapereality.innerinetcompany.hns.to/)
