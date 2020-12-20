@@ -11,7 +11,7 @@ Now, lets make a [Handshake](https://handshake.org/) stay home, go to [NameBase]
 
 # More by [HNS-DOMAINS/](http://home.hns-domains.hns.to/) 
 
-- [HNS Contributions](hs1qmg7m2tnmk7vfu6ajk3pdnfjfgt222ahshk56x5)
+- make HNS Contributions: hs1qmg7m2tnmk7vfu6ajk3pdnfjfgt222ahshk56x5 use [NameBase.io](https://namebase.io/)
 - our [WEB SECURITY SPECIALIST](http://admin.websecurityspecialist/). 
 
 Use our Paxful Kiosk ⬇
