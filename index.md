@@ -4,7 +4,7 @@
 [![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](https://shapereality.innerinetcompany.hns.to/)
 
 
-# At [Inner I Net Company](http://shapereality.innerinetcompany.hns.to/), our Mission is the expression of the "I" in every Individual.
+# At [Inner I Net Company](http://shapereality.innerinetcompany.hns.to/), our Mission is the Highest expression of the "I" Within Individual.
 
 Now, lets make a [Handshake](https://handshake.org/) stay home, go to [NameBase](https://namebase.io/) choose to OWN a [Decentralized DNS](http://dnsdesigns.decentralizeddns/) or a [Handshake, which is a decentralized naming protocol as an alternative to existing Certificate Authorities. A naming protocol that maintains the root zone file in a decentralized manner, making the root zone uncensorable, permissionless and free of gatekeepers.](https://handshakeacademy.org/en/)
 
